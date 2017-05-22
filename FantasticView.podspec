@@ -8,7 +8,7 @@ This fantastic view changes its color gradually makes your app look fantastic!
                        DESC
  
   s.homepage         = 'https://github.com/Sethmr/FantasticView'
-  s.license          = { :type => 'MIT', :file => 'LICENSE' }
+  s.license          = { :type => 'MIT', :file => 'LICENSE.txt' }
   s.author           = { 'Seth' => 'sethmr21@gmail.com' }
   s.source           = { :git => 'https://github.com/Sethmr/FantasticView.git', :tag => s.version.to_s }
  
